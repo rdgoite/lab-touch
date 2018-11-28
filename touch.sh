@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-touch test.txt
+touch /storage/test.txt
