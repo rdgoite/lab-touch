@@ -8,4 +8,4 @@ WORKDIR app
 COPY touch.sh touch.sh
 RUN chmod +x touch.sh
 
-CMD ["./touch.sh"]
+CMD ["/app/touch.sh"]
